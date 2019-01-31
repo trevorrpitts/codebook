@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    color:wheat;
+    text-align: center;
+}
+em {
+    color: rgb(255, 140, 249);
+}
+div {
+    border-width: .30em;
+    border-color: wheat;
+    border-style: double;
+    border-radius: 2em;
+    width: 6em;
+    text-align: center;
+    padding: 1em;
+    display: inline-block;
+}
+
+#bonce {
+    width: 280px
+}
+
+[contenteditable] {
+    outline: none;
+}
+
+canvas { 
+    width: 50%; 
+    height: 100%; 
+    color: white;
+}
